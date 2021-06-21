@@ -2,9 +2,7 @@
 #define comp
 
 typedef struct tipoComplexos{
-
   float parteReal, parteImaginaria;
-
 } tComplexos;
 
       tComplexos soma(tComplexos a, tComplexos b);

@@ -1,5 +1,5 @@
-#ifndef comp
-#define comp
+#ifndef complexo_h
+#define complexo_h
 
 typedef struct tipoComplexos{
   float parteReal, parteImaginaria;
